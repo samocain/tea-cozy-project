@@ -103,3 +103,9 @@ color: white;
     margin-bottom: auto;
 }
 
+footer {
+    display: block;
+    float: left;
+    padding-left: 20px;
+}
+
