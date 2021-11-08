@@ -88,9 +88,18 @@ color: white;
 .box-container {
     max-width: 1050px;
     margin: 15px auto auto auto;
+    display: flex;
+    justify-content: space-between;
 
 }
 .box {
-    
+    height: 300px;
+    width: 300px;
+    margin-top: 15px;
+    padding: 20px;
+    box-sizing: border-box;
+    background-color: black;
+    opacity: 0.8;
+    margin-bottom: auto;
 }
 
