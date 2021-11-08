@@ -73,6 +73,16 @@ color: white;
     height: 200px;
     width: 300px;
     padding: 10px 10px;
-    
+
+}
+.banner {
+    height: 500px;
+    max-width: 1200px;
+    margin: 40px auto;
+    padding-top: 85px;
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
