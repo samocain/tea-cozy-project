@@ -85,4 +85,12 @@ color: white;
     background-position: center;
     background-size: cover;
 }
+.box-container {
+    max-width: 1050px;
+    margin: 15px auto auto auto;
+
+}
+.box {
+    
+}
 
